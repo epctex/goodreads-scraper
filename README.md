@@ -53,11 +53,11 @@ The actor optimized to run blazing fast and scrape many as listings as possible.
 ```json
 {
   "startUrls":[
-    {"url":"https://www.goodreads.com/search?utf8=%E2%9C%93&query=stephen"},
-    {"url":"https://www.goodreads.com/book/show/41865.Twilight"},
-    {"url":"https://www.goodreads.com/list/show/99918.Cassie_s_Cover_of_the_Year_2016"},
-    {"url":"https://www.goodreads.com/shelf/show/art"},
-    {"url":"https://www.goodreads.com/genres/most_read/christian-fiction"}
+    "https://www.goodreads.com/search?utf8=%E2%9C%93&query=stephen",
+    "https://www.goodreads.com/book/show/41865.Twilight",
+    "https://www.goodreads.com/list/show/99918.Cassie_s_Cover_of_the_Year_2016",
+    "https://www.goodreads.com/shelf/show/art",
+    "https://www.goodreads.com/genres/most_read/christian-fiction"
   ],
   "proxy":{
     "useApifyProxy": true
