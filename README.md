@@ -106,54 +106,60 @@ The structure of each item in Goodreads listings looks like this:
 ### Book Detail
 
 ```json
+
 {
-  "bookId": "41865"
-  "url": "https://www.goodreads.com/book/show/41865.Twilight",
-  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865.jpg",
-  "title": "Twilight",
-  "authorName": "Stephenie Meyer",
-  "authorUrl": "https://www.goodreads.com/author/show/941441.Stephenie_Meyer",
-  "authorAbout": "Stephenie Meyer is the author of the bestselling Twilight series, The Host, and The Chemist. Twilight was one of 2005's most talked about novels and within weeks of its release the book debuted at #5 on The New York Times bestseller list. Among its many accolades, Twilight was named an \"ALA Top Ten Books for Young Adults,\" an Amazon.com \"Best Book of the Decade So Far,\" and a Publishers Weekly Bes\n  Stephenie Meyer is the author of the bestselling Twilight series, The Host, and The Chemist. Twilight was one of 2005's most talked about novels and within weeks of its release the book debuted at #5 on The New York Times bestseller list. Among its many accolades, Twilight was named an \"ALA Top Ten Books for Young Adults,\" an Amazon.com \"Best Book of the Decade So Far,\" and a Publishers Weekly Best Book of the Year. Meyer graduated from Brigham Young University with a degree in English Literature. She lives in Arizona with her husband and three sons.\n  ...more",
-  "rating": 3.61,
-  "numberOfRatings": 5186290,
-  "numberOfReviews": 106938,
-  "description": "About three things I was absolutely positive.First, Edward was a vampire.Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.\n  About three things I was absolutely positive.First, Edward was a vampire.Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.\n  ...more",
+  "bookId": 58408830,
+  "url": "https://www.goodreads.com/book/show/58408830-the-lazarus-men",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624462365i/58408830.jpg",
+  "title": "The Lazarus Men by Christian Warren Freed | GoodreadsLoading interface...Loading interface...",
+  "authorName": "Christian Warren Freed",
+  "authorUrl": "https://www.goodreads.com/author/show/8137590.Christian_Warren_Freed",
+  "authorAbout": "<br />Christian W. Freed was born in Buffalo, N.Y. more years ago than he would like to remember. After spending more than 20 years in the active-duty US Army he has turned his talents to writing. Since retiring, he has gone on to publish over 25 military fantasy and science fiction novels, as well as his memoirs from his time in Iraq and Afghanistan, a children's book, and a pair of how to books focused on indie authors and the decision making process for writing a book and what happens after it is published. <br /><br />His first published book (Hammers in the Wind) has been the #1 free book on Kindle 4 times and he holds a fancy certificate from the L Ron Hubbard Writers of the Future Contest. Ok, so it was for 4th place in one quarter, but it's still recognition from the largest fiction writing contest in the world. And no, he's not a scientologist. <br /><br />Passionate about history, he combines his knowledge of the past with modern military tactics to create an engaging, quasi-realistic world for the readers. He graduated from Campbell University with a degree in history and a Masters of Arts degree in Digital Communications from the University of North Carolina at Chapel Hill. <br /><br />He currently lives outside of Raleigh, N.C. and devotes his time to writing, his family, and their two Bernese Mountain Dogs. If you drive by you might just find him on the porch with a cigar in one hand and a pen in the other. You can find out more about his work by following him on social media: <br />Facebook: <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.facebook.com/ChristianFreed\">https://www.facebook.com/ChristianFreed</a> <br />Twitter:<br /> @ChristianWFreed <br />Instagram: <a target=\"_blank\" rel=\"noopener nofollow\" href=\"http://www.instagram.com/christianwarrenfreed/\">www.instagram.com/christianwarrenfreed/</a> <br /><br />Website: <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://christianwfreed.com/\">https://christianwfreed.com/</a> <br /><br />Join his mailing list for new releases, updates, and upcoming events: <a target=\"_blank\" rel=\"noopener nofollow\" href=\"http://subscribepage.com/warfighterbooks\">http://subscribepage.com/warfighterbooks</a><br /><br /><br />Books by Christian Warren Freed<br /><br />The Forgotten Gods Tales<br />#1 Dreams of Winter<br />#2 The Madman on the Rocks<br />#3 Anguish Once Possessed<br />#4 Through Darkness Besieged<br />#5 Under Tattered Banners<br />#6 A Time For Tyrants<br />An Hour of Wolves- short story<br /><br />The Northern Crusade<br />#1 Hammers in the Wind<br />#2 Tides of Blood and Steel<br />#3 A Whisper After Midnight<br />#4 Empire of Bones<br />#5 The Madness of Gods and Kings<br />#6 Evens Gods Must Fall<br /><br />The Histories of Malweir (all stand alones)<br />#1 Armies of the Silver Mage<br />#2 The Dragon Hunters<br />#3 Beyond the Edge of Dawn<br /><br />Immortality Shattered<br />#1 Law of the Heretic<br />#2 The Bitter War of Always<br />#3 The Land of Wicked Shadows<br /># Storm Upon the Dawn<br /><br />The Children of Never (stand alone)<br />Where Have all the Elves Gone? (stand alone)<br />One of Our Elves is Missing<br />The Lazarus Men (stand alone)<br />Repercussions: A Lazarus Men Agenda #2<br />A Long Way From Home: My Time in Iraq and Afghanistan 2002-2006<br />Coward's Truth: A Novel of the Heart Eternal<br />Tomorrow's Demise: The Extinction Campaign<br />Tomorrow's Demise: Salvation<br />",
+  "rating": 4.23,
+  "numberOfRatings": 919,
+  "numberOfReviews": 35,
+  "reviews": [
+    {
+      "author": "Stjepan Cobets",
+      "userUrl": "https://www.goodreads.com/user/show/44823204-stjepan-cobets",
+      "rating": 4,
+      "html": "My rating 3.6<br><br>Book The Lazarus Men by Christian Warren Freed is a solid sci-fi novel set in the future where Humankind has reached the stars. In the book, the author draws us into a world full of conspiracy in which those who have everything they want even more because human greed for power is sometimes too great. In this whirlwind of events, accidentally finds Gerald LaPlante ordinary man who is a worker at the landing station on Earth. He is witness to the murder that has happened and after that, he has to save his life. As he will later learn about these events, many secret organizations are involved and they all want him dead because he has something they are looking for. The story varies from excellent to good, and sometimes stories, where should expand, is too little developed, but all in all a good story. I am convinced that all fans of sci-fi will be satisfied.",
+      "text": "My rating 3.6Book The Lazarus Men by Christian Warren Freed is a solid sci-fi novel set in the future where Humankind has reached the stars. In the book, the author draws us into a world full of conspiracy in which those who have everything they want even more because human greed for power is sometimes too great. In this whirlwind of events, accidentally finds Gerald LaPlante ordinary man who is a worker at the landing station on Earth. He is witness to the murder that has happened and after that, he has to save his life. As he will later learn about these events, many secret organizations are involved and they all want him dead because he has something they are looking for. The story varies from excellent to good, and sometimes stories, where should expand, is too little developed, but all in all a good story. I am convinced that all fans of sci-fi will be satisfied.",
+      "numOfLikes": 40,
+      "date": "July 20, 2018",
+      "shelves": [
+        "indie",
+        "science-fiction"
+      ]
+    },
+  ],
+  "description": "It is the 23rd century. Humankind has reached the stars, building a tentative empire across a score of worlds. Earth's central government rules weakly as several worlds continue their efforts toward independence. Shadow organizations hide in the midst of the political infighting. Their manifestations of power and influence are beholden only to the highest bidder. The most powerful/insidious/secret of these, The Lazarus Men, has existed for decades, always working outside of morality's constraints. Led by the enigmatic Mr. Shine, their agents are hand selected from the worst humanity has to offer and available for the right price. Gerald LaPlant lives an ordinary life on Old Earth. That life is thrown into turmoil on the night he stumbles upon the murder of what appears to be a street thief. Fleeing into the night, Gerald finds himself caught in a war between the Lazarus Men and Roland McMasters, an extremely powerful man dissatisfied with the current regime and with designs on ruling his own empire.",
   "buyLinks": [
-    "https://www.goodreads.com/buy_buttons/12/follow?book_id=41865&page_type=book&page_type_id=41865&ref=x_gr_w_bb_sout&sub_page_type=show&tag=x_gr_w_bb_sout-20",
-    "https://www.goodreads.com/book_link/follow/10?book_id=41865&page_type=book&page_type_id=41865&ref=x_gr_w_bb_audible&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/3?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/1027?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/2102?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/8036?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/4?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/882?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/5?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/9?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/107?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show",
-    "https://www.goodreads.com/book_link/follow/7?book_id=41865&page_type=book&page_type_id=41865&source=dropdown&sub_page_type=show"
+    "https://www.amazon.com/gp/product/B09L2CPT2L/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20",
+    "http://www.amazon.com/gp/product/1365417077/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1365417077&SubscriptionId=1MGPYB6YW3HWK55XCGG2",
+    "https://www.amazon.com/s?k=The+Lazarus+Men&i=audible&ref=x_gr_w_bb_audible-20&tag=x_gr_w_bb_audible-20",
+    "https://www.barnesandnoble.com/w/?ean=9781365417078",
+    "http://affiliates.abebooks.com/c/64613/77416/2029?u=http%3A%2F%2Fwww.abebooks.com%2Fservlet%2FSearchResults%3Fisbn%3D1365417077",
+    "https://click.linksynergy.com/fs-bin/click?id=GwEz7vxblVU&subid=&offerid=361251.1&type=10&tmpid=9309&u1=x_gr_w_bb&RD_PARM1=https%3A%2F%2Fwww.kobo.com%2Fus%2Fen%2Fsearch%3FQuery%3D9781365417078",
+    "https://geo.itunes.apple.com/us/book/isbn9781365417078?at=11lvdC&mt=11&ls=1",
+    "https://play.google.com/store/search?q=9781365417078&c=books&PCamrefID=bookpage&PAffiliateID=10lHMS",
+    "http://www.bookdepository.com/search?searchTerm=1365417077&search=Find+book&a_aid=goodreads",
+    "http://click.linksynergy.com/fs-bin/click?id=GwEz7vxblVU&subid=&offerid=189673.1&type=10&tmpid=939&&u1=x_gr_w_bb&RD_PARM1=http%3A%2F%2Fwww.alibris.com%2Fbooksearch%3Fkeyword%3D1365417077",
+    "https://www.chapters.indigo.ca/en-ca/home/search/?keywords=9781365417078",
+    "http://www.tkqlhce.com/ob117vpyvpxCFFFKMHLCEDHLGHKECEFMIGDFFHJDDD?url=http%3A%2F%2Fwww.betterworldbooks.com%2FThe+Lazarus+Men-H0.aspx%3FSearchTerm%3D1365417077",
+    "https://www.indiebound.org/book/9781365417078",
+    "https://prf.hn/click/camref:1101ljNE7/pubref:1365417077/destination:https://www.thriftbooks.com/browse/?b.search=1365417077"
   ],
   "bookFormat": "Paperback",
-  "numberOfPages": 501,
-  "Original Title": "Twilight",
-  "ISBN": "0316015849",
-  "Edition Language": "English",
-  "Series": "The Twilight Saga #1",
-  "Characters": "Edward Cullen, Jacob Black, Laurent, Renee, Bella Swan...more, Billy Black, Esme Cullen, Alice Cullen, Jasper Hale, Carlisle Cullen, Emmett Cullen, Rosalie Hale, Charlie Swan, Mike Newton, Jessica Stanley, Angela Weber, Tyler Crowley...less",
-  "Literary Awards": "Georgia Peach Book Award (2007), Buxtehuder Bulle (2006), Kentucky Bluegrass Award for 9-12 (2007), Prijs van de Kinder- en Jeugdjury Vlaanderen (2008), Books I Loved Best Yearly (BILBY) Awards for Older Readers (2009)\n                      ...more\n                          West Australian Young Readers' Book Award (WAYRBA) for Older Readers (2008), Garden State Book Award for Fiction (Grades 9-12) (2008), South Carolina Book Award for Young Adult Book Award (2008), Grand Canyon Reader Award for Teen Book (2008), Maryland Black-Eyed Susan Book Award for High School (2008), Golden Sower Award for Young Adult (2009), Nevada Young Readers' Award for Young Adult Category  (2007), The Flume: New Hampshire Teen Reader's Choice Award (2007), Pennsylvania Young Readers' Choice Award for Young Adult (2009), Rhode Island Teen Book Award (2007), Evergreen Teen Book Award (2008), Michigan Library Association Thumbs Up! Award Nominee (2006), Teen Read Award Nominee for Best All-Time-Fave (2010), Deutscher Jugendliteraturpreis Nominee for Preis der Jugendjury (2007), Iowa High School Book Award (2008), Eliot Rosewater Indiana High School Book Award (2008), Lincoln Award (2008), Literaturpreis der Jury der jungen Leser for Cover (2007), Prix Et-lisez-moi (2008), Missouri Gateway Readers Award (2008)\n...less",
-  "reviews":[{
-      "author": "Sarah",
-      "userUrl": "https://www.goodreads.com//user/show/949071-sarah",
-      "rating": 2,
-      "html": "no one, not even my worst enemy",
-      "text": "Okay, I have to say that I picked this book up partly due to all the hype (and partly because it's involved two of my favorite genres)...",
-      "numOfLikes": 3375,
-      "date": "Feb 27, 2008",
-      "shelves": [
-        "vampire-supernatural",
-        "romance",
-        "teen-young-adult",
-        "2008"
-      ]
-    }]
+  "numberOfPages": 242,
+  "firstPublishedDate": "January 1, 1970",
+  "publishedDate": "June 1, 2021",
+  "publishedBy": "Warfighter Books",
+  "Original Title": null,
+  "ISBN": "1365417077",
+  "Edition Language": null,
+  "Series": null,
+  "Characters": [],
+  "Literary Awards": []
 }
 ```
