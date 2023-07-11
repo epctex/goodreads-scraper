@@ -1,3 +1,5 @@
+[https://apify.com/epctex/goodreads-scraper](https://apify.com/epctex/goodreads-scraper?fpr=yhdrb)
+
 # Actor - Goodreads Scraper
 
 ## Goodreads scraper
@@ -12,19 +14,19 @@ The Goodreads data scraper supports the following features:
 
 -   Scrape shelf - You can check the shelves and scrape the information of the newest updates.
 
--   Scrape genres - If you want to get most read books on a certain category or anything related the genres, just type the url.
+-   Scrape genres - If you want to get the most read books on a certain category or anything related to the genres, just type the URL.
 
--   Scrape book detail - Scrape a very detailed information for each of the book that you'd like to get.
+-   Scrape book detail - Scrape very detailed information for each of the books that you'd like to get.
 
 -   Scrape reviews of a book - Scrape all of the reviews from a book optionally.
 
-## Bugs, fixes, updates and changelog
+## Bugs, fixes, updates, and changelog
 
 This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/goodreads-scraper/issues).
 
 ## Setup & Usage
 
-You can see how this actor works these videos:
+You can see how this actor works in these videos:
 
 ### Using Search
 
@@ -44,33 +46,33 @@ The input of this scraper should be JSON containing the list of pages on Goodrea
 
 - `search`: (Optional) (String) Keyword that you want to search on Goodreads.
 
-- `startUrls`: (Optional) (Array) List of Goodreads URLs. You should only provide news list, jobs list or detail URLs.
+- `startUrls`: (Optional) (Array) List of Goodreads URLs. You should only provide a news list, jobs list, or detailed URLs.
 
 - `includeReviews`: (Optional) (Boolean) This will add all the reviews that Goodreads provides inside the book object. Please keep in mind that the time and resources the actor uses will increase proportionally by the number of reviews.
 
-- `endPage`: (Optional) (Number) Final number of page that you want to scrape. Default is `Infinite`. This is applies to all `search` request and `startUrls` individually.
+- `endPage`: (Optional) (Number) Final number of page that you want to scrape. Default is `Infinite`. This applies to all `search` requests and `startUrls` individually.
 
 - `maxItems`: (Optional) (Number) You can limit scraped items. This should be useful when you search through the big lists or search results.
 
 - `proxy`: (Required) (Proxy Object) Proxy configuration.
 
-- `extendOutputFunction`: (Optional) (String) Function that takes a JQuery handle ($) as argument and returns object with data.
+- `extendOutputFunction`: (Optional) (String) Function that takes a JQuery handle ($) as an argument and returns an object with data.
 
-- `customMapFunction`: (Optional) (String) Function that takes each objects handle as argument and returns object with executing the function.
+- `customMapFunction`: (Optional) (String) Function that takes each object's handle as an argument and returns the object with executing the function.
 
 This solution requires the use of **Proxy servers**, either your own proxy servers or you can use [Apify Proxy](https://www.apify.com/docs/proxy).
 
 ### Tip
 
-When you want to have a scrape over a specific listing URL, just copy and paste the link as one of the **startUrl**.
+When you want to scrape over a specific listing URL, just copy and paste the link as one of the **startUrl**.
 
 If you would like to scrape only the first page of a list then put the link for the page and have the `endPage` as 1.
 
-With the last approach that explained above you can also fetch any interval of pages. If you provide the 5th page of a list and define the `endPage` parameter as 6 then you'll have the 5th and 6th pages only.
+With the last approach that is explained above you can also fetch any interval of pages. If you provide the 5th page of a list and define the `endPage` parameter as 6 then you'll have the 5th and 6th pages only.
 
 ### Compute Unit Consumption
 
-The actor optimized to run blazing fast and scrape many as listings as possible. Therefore, it forefronts all listing detail requests. If actor doesn't block very often it'll scrape 100 listings in 2 minutes with ~0.03-0.05 compute units.
+The actor is optimized to run blazing fast and scrape many listings as possible. Therefore, it forefronts all listing detail requests. If the actor doesn't block very often it'll scrape 100 listings in 2 minutes with ~0.03-0.05 compute units.
 
 ### Goodreads Scraper Input example
 
@@ -172,4 +174,4 @@ The structure of each item in Goodreads listings looks like this:
 ```
 
 ## Contact
-Please visit us through [epctex.com](https://epctex.com) to see all the products that is available for you. If you are looking for any custom integration or so, please reach out to us through the chat box in [epctex.com](https://epctex.com). In need of support? [devops@epctex.com](mailto:devops@epctex.com) is at your service.
+Please visit us through [epctex.com](https://epctex.com) to see all the products that are available for you. If you are looking for any custom integration or so, please reach out to us through the chat box in [epctex.com](https://epctex.com). In need of support? [devops@epctex.com](mailto:devops@epctex.com) is at your service.
